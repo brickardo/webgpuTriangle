@@ -1,1 +1,1 @@
-# My fist try to webGPU!
+# My fist try in webGPU!
